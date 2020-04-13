@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PopularLibrary</string>
+    <string name="click_me">Click Me</string>
+    <string name="message">Message</string>
+</resources>
